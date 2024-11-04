@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ofoxeeko.github.io/DfM/sitemap_index.txt
+Sitemap: https://ofoxeeko.github.io/Fkm/sitemap_index.txt
+Sitemap: https://ofoxeeko.github.io/ROK/sitemap_index.txt
+Sitemap: https://ofoxeeko.github.io/dPA/sitemap_index.txt
